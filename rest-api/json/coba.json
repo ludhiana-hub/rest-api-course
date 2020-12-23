@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Raza Ahmad Ludhiana",
+        "umur" : 19,
+        "npm"  : "19402074",
+        "lulus" : false,
+        "hobi" : [
+            "coding",
+            "traveller",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Falaah Abdussalam",
+            "pembimbing2" : "Canda Mecca"
+    }
+},
+    {
+        "nama" : "Kapela",
+        "umur" : 19,
+        "npm"  : "19402024",
+        "lulus" : false,
+        "hobi" : [
+            "makan",
+            "sebat",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Falaah Abdussalam",
+            "pembimbing2" : "Canda Mecca"
+        }
+    }
+]
